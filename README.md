@@ -11,7 +11,7 @@ vilka stakan (rus. &nbsp;“вилка стакан”) can be&nbsp;translated a
 <summary>links</summary>
 <br>
   
-follow/like: <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://behance.net/vilkastakan">behance</a>, <a href="https://glitch.com/@ktwzk">glitch</a>
+follow/like: <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://behance.net/vilkastakan">behance</a>, <a href="https://glitch.com/@vilkastakan">glitch</a>
 
 listen to: <a href="https://instagram.com/ephemeral.m3u">ephemeral&nbsp;mixtape</a>, <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/ktwzk">old&nbsp;mixes</a>
 
