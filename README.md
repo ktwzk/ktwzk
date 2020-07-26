@@ -1,8 +1,10 @@
 ### Vik Kotwizkiy aka вилка стакан
 
-<i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang
+**coder, designer, event-manager, artist, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang
 
-i'm doing events, code and design. but mostly i'm just having fun in the internet.<br>vilka stakan (rus. &nbsp;“вилка стакан”) can be&nbsp;translated as&nbsp;“plug glass”. plug for my&nbsp;laptop and a&nbsp;glass of&nbsp;water for me&nbsp;to&nbsp;stay hydrated
+
+
+vilka stakan (rus. &nbsp;“вилка стакан”) can be&nbsp;translated as&nbsp;“plug glass”. plug for my&nbsp;laptop and a&nbsp;glass of&nbsp;water for me&nbsp;to&nbsp;stay hydrated
 
 
 <details>
@@ -17,8 +19,6 @@ contact: <a href="mailto:v@views.rocks">v@views.rocks</a> (<a href="https://keyb
 
 donate: <a href="https://donate.stream/en/vilkastakan">donate.stream</a>, <a href="https://rocketbank.ru/ktwzk">rocketbank</a>
 
-  
-  
 </details>
 
 
