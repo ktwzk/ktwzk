@@ -1,6 +1,6 @@
 # Vik Kotwizkiy aka вилка стакан
 
-**coder, designer, event-manager, artist, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang
+**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang
 
 
 
