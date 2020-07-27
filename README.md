@@ -1,10 +1,11 @@
 # Vik Kotwizkiy aka вилка стакан
 
-**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang
+**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang, event-producer @ <a href="https://hackerdom.ru/">Хакердом</a> team
 
 
 
 vilka stakan (rus. &nbsp;“вилка стакан”) can be&nbsp;translated as&nbsp;“plug glass”. plug for my&nbsp;laptop and a&nbsp;glass of&nbsp;water for me&nbsp;to&nbsp;stay hydrated
+
 
 
 <details>
