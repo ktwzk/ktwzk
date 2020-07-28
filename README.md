@@ -4,7 +4,7 @@
 
 
 
-vilka stakan (rus. &nbsp;“вилка стакан”) can be&nbsp;translated as&nbsp;“plug glass”. plug for my&nbsp;laptop and a&nbsp;glass of&nbsp;water for me&nbsp;to&nbsp;stay hydrated
+vilka stakan (rus.&nbsp;“вилка&nbsp;стакан”) can be&nbsp;translated as&nbsp;“plug glass”. plug for my&nbsp;laptop and a&nbsp;glass of&nbsp;water for me&nbsp;to&nbsp;stay hydrated
 
 
 
