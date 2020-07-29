@@ -22,5 +22,6 @@ vilka stakan (rus.&nbsp;“вилка&nbsp;стакан”) can be&nbsp;translat
 
 </details>
 
+feel free to ask me any question via email/tlg/discord or [issue on this repo](https://github.com/ktwzk/ktwzk)
 
 most of my GitHub projects are hosted at <a href="https://github.com/views-gang">@views-gang</a>, but you can check out this nice pinned repos
