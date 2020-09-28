@@ -14,7 +14,7 @@ vilka stakan (rus.&nbsp;“вилка&nbsp;стакан”) can be&nbsp;translat
   
 **follow/like:** <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://behance.net/vilkastakan">behance</a>, <a href="https://glitch.com/@vilkastakan">glitch</a>
 
-**listen to:** <a href="https://instagram.com/ephemeral.m3u">ephemeral&nbsp;mixtape</a>, <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/ktwzk">old&nbsp;mixes</a>
+**listen to:** <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/ktwzk">old&nbsp;mixes</a>
 
 **contact:** <a href="mailto:v@views.rocks">v@views.rocks</a> (<a href="https://keybase.io/ktwzk">keybase</a>), tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a>
 
