@@ -1,6 +1,6 @@
 # Vik Kotwizkiy aka вилка стакан
 
-**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang, event-producer @ <a href="https://hackerdom.ru/">Хакердом</a> team
+**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, creator @ <a href="https://views.rocks">ВЬЮС</a> gang, event-producer @ <a href="https://hackerdom.ru/">Хакердом</a> team, avaliable for hire
 
 
 
@@ -16,10 +16,8 @@ vilka stakan (rus.&nbsp;“вилка&nbsp;стакан”) can be&nbsp;translat
 
 **listen to:** <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/ktwzk">old&nbsp;mixes</a>
 
-**contact:** <a href="mailto:vik@ktwzk.me">vik@ktwzk.me</a> (<a href="https://keybase.io/ktwzk">keybase</a>), tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a>
+**contact:** <a href="mailto:vik@ktwzk.me">vik@ktwzk.me</a> (<a href="https://keybase.io/ktwzk">PGP</a>), tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a>
 
 </details>
 
-feel free to ask me any question via email/tlg/discord or [issue on this repo](https://github.com/ktwzk/ktwzk)
-
-most of my GitHub projects are hosted at <a href="https://github.com/views-gang">@views-gang</a>
+feel free to ask me anything via email/tlg/discord or [issue on this repo](https://github.com/ktwzk/ktwzk)
