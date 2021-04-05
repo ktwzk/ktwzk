@@ -1,6 +1,6 @@
 # Vik Kotwizkiy aka вилка стакан
 
-**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, producer @ <a href="https://hackerdom.ru/">Хакердом</a> team, avaliable for hire
+**coder, designer, event-manager, shitposter**, <i>new media art hustler</i>, producer @ <a href="https://hackerdom.ru/">Хакердом</a> team
 
 
 
