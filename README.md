@@ -12,12 +12,11 @@ vilka stakan (rus.&nbsp;“вилка&nbsp;стакан”) can be&nbsp;translat
 <summary>links</summary>
 <br>
   
-**follow/like:** <a href="https://twitter.com/vilkastakan">twitter</a>, <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://behance.net/vilkastakan">behance</a>, <a href="https://glitch.com/@vilkastakan">glitch</a>
+<p><span>follow/like: <a href="https://t.me/vilkastakan">telegram</a>, <a href="https://twitter.com/vilkastakan">twitter</a>, <a href="https://instagram.com/vilkastakan">instagram</a>, <a href="https://github.com/ktwzk">github</a>, <a href="https://behance.net/vilkastakan">behance</a><!--, <a href="https://glitch.com/@vilkastakan">glitch</a>--></span></p>
+      <p><span>listen to: my new lo-fi tracks on <a href="https://album.link/ffnthzqbstfm4">Chill EP</a>, <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/vilkastakan">mixcloud</a>, <a href="https://soundcloud.com/vilkastakan">soundcloud</a></span></p>
+      <div id="spotify-paragraph"></div>
+    <p><span>contact: <a href="mailto:vik@ktwzk.me">vik@ktwzk.me</a>, tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a></span></p>
 
-**listen to:** listen to: <a href="https://open.spotify.com/user/n5xe7xa9ygnl8o1mta2cg7yy9?si=RpSiNyYmRcihYmhXckTaFg">spotify&nbsp;playlists</a>, <a href="https://mixcloud.com/vilkastakan">mixcloud</a>, <a href="https://soundcloud.com/vilkastakan">soundcloud</a>
-    
-
-**contact:** <a href="mailto:vik@ktwzk.me">vik@ktwzk.me</a> (<a href="https://keybase.io/ktwzk">PGP</a>), tlg&nbsp;<a href="https://t.me/ktwzk">@ktwzk</a>, discord&nbsp;<a href="https://discord.gg/dEaF3Ys">вилкастакан#1312</a>
 
 </details>
 
