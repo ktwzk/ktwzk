@@ -1,4 +1,4 @@
-# Vik Kotwizkiy aka вилка стакан
+# Vik aka вилка стакан
 
 <a href="https://vlk.st"><img src="https://vlk.st/call.png"></a>
   
